@@ -16,4 +16,4 @@ arg = formatPath(arg)
 
 print arg
 
-
+print "End TEST !"
